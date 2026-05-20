@@ -1,0 +1,21 @@
+// Create a variable called number1 and store a number in it
+let number1 = 10;
+
+// Create a variable called number2 and store a different number in it
+let number2 = 5;
+
+// Convert number1 to a string and store it in a new variable
+let numberString = String(number1);
+
+// Add number1 and number2 and store the result in sum
+let sum = number1 + number2;
+
+// Multiply number1 and number2 and store the result in product
+let product = number1 * number2;
+
+// Print all results to the console
+console.log("Number 1:", number1);
+console.log("Number 2:", number2);
+console.log("Number 1 as a string:", numberString);
+console.log("Sum:", sum);
+console.log("Product:", product);
